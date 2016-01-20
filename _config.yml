@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Zenrix's Dev Blog
+title: Zen's Development Blog
 email: zenrixdev+blog@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My name is Micheal Earl and my online handle is Zenrix. I made
