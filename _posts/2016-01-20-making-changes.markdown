@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I'm Still Alive"
+title:  "Making Changes"
 date:   2016-01-20 13:14:29 -0800
 categories: personal
 ---
