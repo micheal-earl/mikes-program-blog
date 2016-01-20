@@ -18,5 +18,5 @@ twitter_username: TheZenrix
 github_username:  Zenrix
 
 # Build settings
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
