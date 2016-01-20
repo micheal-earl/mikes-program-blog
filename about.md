@@ -4,17 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I haven't started writing this yet. Give me a bit of time :)
+So, a few things about me. I like reading, programming, and playing video games. I have always aspired to be an author, but lately programming has me in a vice grip. Please forgive my grammatical mistakes! I don’t do a lot of writing.
 
-
--- Jekyll Stuff Below
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I find that game development lets me combine all of my passions. I get to write a story for my game, program the functionality, and read even more books to get inspiration.
