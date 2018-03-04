@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It's been a while"
+title:  "It has been a while"
 date:   2018-03-03 00:00:00 -0800
 categories: personal
 ---
@@ -12,7 +12,7 @@ You can see the notes I have on classical in this small repo https://github.com/
 
 
 Main.lua:
-{% highlight Lua %}
+```lua
 -- We must require our "classic" library to implement this
 -- version of OOP. We then require our two object Classes
 -- so that we can make Point and Vehicle objects + their children
@@ -58,7 +58,7 @@ end
 
 -- Run our main function
 main()
-{% endhighlight %}
+```
 
 and my two class files are below
 
