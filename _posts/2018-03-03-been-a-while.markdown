@@ -12,7 +12,7 @@ You can see the notes I have on classical in this small repo https://github.com/
 
 
 Main.lua:
----
+```lua
 -- We must require our "classic" library to implement this
 -- version of OOP. We then require our two object Classes
 -- so that we can make Point and Vehicle objects + their children
@@ -58,12 +58,12 @@ end
 
 -- Run our main function
 main()
----
+```
 
 and my two class files are below
 
 Vehicle.lua:
----
+```lua
 Object = require '../lib/classic/classic'
 
 -- Start of the Vehicle class. Creates Vehicle objects.
@@ -109,10 +109,10 @@ end
 function Car:printNumOfDoors()
   io.write(self.numOfDoors.."\n")
 end
----
+```
 
 Point.lua
----
+```lua
 Object = require '../lib/classic/classic'
 
 -- Make a Point object
@@ -138,6 +138,6 @@ function Rect:new(x, y, width, height)
   self.width = width or 0
   self.height = height or 0
 end
----
+```
 
 I just implemented some random stuff and commented it so I can take a look at it in the future.
