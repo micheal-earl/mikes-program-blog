@@ -12,7 +12,7 @@ You can see the notes I have on classical in this small repo https://github.com/
 
 
 Main.lua:
-```lua
+{% highlight Lua %}
 -- We must require our "classic" library to implement this
 -- version of OOP. We then require our two object Classes
 -- so that we can make Point and Vehicle objects + their children
@@ -58,7 +58,7 @@ end
 
 -- Run our main function
 main()
-```
+{% endhighlight %}
 
 and my two class files are below
 
