@@ -1,22 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+name: Mike's Code
+url: http://zenrix.github.io
+description: A place for notes
 
-# Site settings
-title: Zen's Development Blog
-email: zenrixdev+blog@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  My name is Micheal Earl and my online handle is Zenrix. I made
-  this blog in order to guage my progress as I tackle programming.
-  I'm into Ruby, Javascript, and C-Sharp.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://zenrix.github.io" # the base hostname & protocol for your site
-twitter_username: TheZenrix
-github_username:  Zenrix
+permalink: /:year/:month/:day/:title/
+paginate: 10
 
-# Build settings
-highlighter: rouge
-markdown: kramdown
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
