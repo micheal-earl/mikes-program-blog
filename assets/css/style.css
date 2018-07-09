@@ -35,6 +35,9 @@ table {
 	color: #094553;
 }
 
+#blog-archives article {
+	margin-bottom: 0px;
+}
 
 /*** Basics ***/
 body {
