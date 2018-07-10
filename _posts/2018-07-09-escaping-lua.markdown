@@ -5,7 +5,7 @@ date:   2018-07-09 00:00:00 -0800
 categories: whimsical
 ---
 
-I love Lua as a programming language. It really has mostly everything I would ever want from a programming language. It is speedy (using LuaJIT) and it is easy to pick up. Using Lua and LÖVE for projects is a joy and overall the experience has been pretty great.
+I love Lua as a programming language. It really has mostly everything I would ever want from a programming language. It is speedy (using LuaJIT) and it is easy to pick up. Using Lua and LÖVE for projects is a joy.
 
 However, I have become a little less enchanted with Lua syntax. It seems a really shallow thing to be upset with considering how good everything else seems to be, but I just can't escape how strange it is sometimes. Using "then" and "end" to define code blocks is awkward and so _different_ from the other languages I regularly use. Swapping from Javascript and C# is relatively painless syntacticly, but swapping from C# or Javascript to Lua always takes a little bit of adjustment.
 
