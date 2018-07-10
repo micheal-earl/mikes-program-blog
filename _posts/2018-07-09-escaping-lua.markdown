@@ -5,9 +5,9 @@ date:   2018-07-09 00:00:00 -0800
 categories: whimsical
 ---
 
-I love Lua as a programming language. It really has mostly everything I would ever want from a programming language. It is speedy (using LuaJIT) and it is easy to pick up. I have done a few projects using Lua and LÖVE. Overall the experience has been pretty great.
+I love Lua as a programming language. It really has mostly everything I would ever want from a programming language. It is speedy (using LuaJIT) and it is easy to pick up. Using Lua and LÖVE for projects is a joy and overall the experience has been pretty great.
 
-However, recently I have become a little less enchanted with Luas syntax. It seems a really shallow thing to be upset with considering how good everything else seems to be, but I just can't escape how strange it is sometimes. Using "then" and "end" to define code blocks is awkward and so _different_ from the other languages I regularly use. Swapping from Javascript and C# is relatively painless syntacticly, but swapping from C# or Javascript to Lua always takes a little bit of adjustment.
+However, I have become a little less enchanted with Lua syntax. It seems a really shallow thing to be upset with considering how good everything else seems to be, but I just can't escape how strange it is sometimes. Using "then" and "end" to define code blocks is awkward and so _different_ from the other languages I regularly use. Swapping from Javascript and C# is relatively painless syntacticly, but swapping from C# or Javascript to Lua always takes a little bit of adjustment.
 
 Another thing that has frustrated me and wasted hours of my time is that Lua arrays are initialized at 1! This causes so many bugs after coming back from other languages and it always takes me time to remember this idiosyncrasy of Lua.
 
