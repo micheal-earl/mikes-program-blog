@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Decisions"
+date:   2018-08-02 00:00:00 -0800
+categories: whimsical
+---
+
+I just got back home from my trip to Canada. I had a lot of fun during the trip, but I am glad to be back home so I can start getting some work done. My next semester of college begins in only two weeks, and most of the classes are still general education.
+
+Making sure that I'm always learning something new about technology is a must. Becoming complacent would be very bad at this step in my life. My plan is to have at least one commit to github every single day. This will make sure that I think about programming every single day, even if that commit is just a change to the blog.
