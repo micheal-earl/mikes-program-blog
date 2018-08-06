@@ -9,7 +9,7 @@ title: Archives
 		<article class="post">
 			{% if post.external-url %}
 				<h1>
-					<a href="{{ post.external-url }}">{{ post.title }}</a> 
+					<a href="{{ post.external-url }}">{{ post.title }}</a><span class="date">  {{ post.date | date: '%B %d, %Y' }}</span>
 					<a class="anchor" href="{{ post.url }}"><i class="icon-anchor"></i></a>
 				</h1>
 			{% else %}

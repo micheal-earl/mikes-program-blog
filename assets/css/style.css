@@ -39,6 +39,10 @@ table {
 	margin-bottom: 0px;
 }
 
+#bog-archives h1 {
+	margin-bottom: 0px !important;
+}
+
 /*** Basics ***/
 body {
 	font-family: Verdana, serif;
