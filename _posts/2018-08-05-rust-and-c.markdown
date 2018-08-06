@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Rust and C"
+date:   2018-08-02 00:00:00 -0800
+categories: whimsical
+---
+
+I made a post a while back about how I need to pick something and really go at it for a while. Finally, I have come to a decision regarding that post. My focus from this point will be on systems level programming (with some web).
+
+C has always been really fun for me. I like having powerful low level control, but I'm less thrilled about all the pitfalls that I encounter. Using C for large projects is definitely not beginner friendly. This brings me to Rust, which isn't really easier, but inherently avoids many of the pitfalls prevelant in C. I feel that using both languages will give me strong fundamentals in systems level programming.
