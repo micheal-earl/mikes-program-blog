@@ -5,7 +5,7 @@ date:   2018-07-08 00:00:00 -0800
 categories: whimsical
 ---
 
-Writing has always been a difficult beast for me. Every time I sit down to write something, I just fail to  bring anything _substantial_ to mind. I do not live a fanciful life of amazing adventure but, rather, a fanciful life of mediocre adventure.
+Writing has always been a difficult beast for me. Every time I sit down to write something, I just fail to  bring anything _substantial_ to mind. I don't live a fanciful life of tantalizing adventure but, rather, a fanciful life of mediocre preservation.
 
 Every time I come back to trying to write on my blog, my eyes are drawn to my first post: "I'm still alive". Ironic, because that is not actually my first post. My first two posts were deleted by me when I wrote "I'm still alive." Perhaps I thought that I could just retcon those posts out of my life.
 

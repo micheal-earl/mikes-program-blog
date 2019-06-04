@@ -11,7 +11,7 @@ I'm using a library in lua to help me implement OOP functionality. The library i
 You can see the notes I have on classical in this small repo https://github.com/Zenrix/oop_notes
 
 
-Main.lua:
+**Main.lua:**
 
 ```lua
 -- We must require our "classic" library to implement this
@@ -62,7 +62,7 @@ main()
 ```
 <br>
 and my two class files are below
-Vehicle.lua:
+**Vehicle.lua:**
 ```lua
 Object = require '../lib/classic/classic'
 
@@ -111,7 +111,7 @@ function Car:printNumOfDoors()
 end
 ```
 <br>
-Point.lua
+**Point.lua**
 ```lua
 Object = require '../lib/classic/classic'
 
@@ -140,4 +140,4 @@ function Rect:new(x, y, width, height)
 end
 ```
 <br>
-I was just playing around to make sure I understoof how to use the library.
+I was just playing around to make sure I understood how to use the library.
