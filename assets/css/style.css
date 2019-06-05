@@ -35,6 +35,11 @@ table {
 	color: #094553;
 }
 
+.read-more {
+	font-size: 100%;
+	color: #094553;
+}
+
 #blog-archives article {
 	margin-bottom: 0px;
 }
@@ -176,7 +181,7 @@ h3 {
 
 /*** Posts ***/
 article {
-	margin-bottom: 40px;
+	margin-bottom: 50px;
 }
 
 article h1 {
