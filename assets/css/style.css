@@ -32,7 +32,8 @@ table {
 /*** Mike's stuff ***/
 .date {
 	font-size: 60%;
-	color: #094553;
+	color: #0e6275;
+	padding-left: 5px;
 }
 
 .read-more {
@@ -46,6 +47,12 @@ table {
 
 #bog-archives h1 {
 	margin-bottom: 0px !important;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	background: #0e6275;
 }
 
 /*** Basics ***/
@@ -181,12 +188,12 @@ h3 {
 
 /*** Posts ***/
 article {
-	margin-bottom: 50px;
+	margin-bottom: 70px;
 }
 
 article h1 {
 	font-size: 17px;
-	margin-bottom: 5px;
+	margin-bottom: 0px;
 }
 article h1 a {
 	border: none;
