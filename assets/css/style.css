@@ -50,9 +50,9 @@ table {
 }
 
 hr {
-	border: 0;
-	height: 1px;
-	background: #0e6275;
+	border: 0 !important;
+	height: 1px !important;
+	background: #0e6275 !important;
 }
 
 /*** Basics ***/
