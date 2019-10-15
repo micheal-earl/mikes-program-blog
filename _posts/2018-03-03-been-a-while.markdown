@@ -6,12 +6,15 @@ categories: personal
 ---
 Well this blog didn't really take off. I just can't spin up the effort to write something every day. I've recently gotten into Lua and the LOVE 2d game library. Playing around with that has been pretty fun.
 
-I'm using a library in lua to help me implement OOP functionality. The library is called classical.lua and you can find it here: https://github.com/rxi/classic
+I'm using a library in lua to help me implement OOP functionality. The library is called classical.lua and you can find it [here](https://github.com/rxi/classic).
 
-You can see the notes I have on classical in this small repo https://github.com/Zenrix/oop_notes
+You can see some notes I made on the usage of the classical library in my repo [here](https://github.com/Zenrix/oop_notes)
 
+And, just so I can test some stuff on my blog I will post the notes here too.  
 
-**Main.lua:**
+&nbsp;
+
+**Main.lua:**  
 
 ```lua
 -- We must require our "classic" library to implement this
@@ -60,9 +63,11 @@ end
 -- Run our main function
 main()
 ```
-<br>
-and my two class files are below
-**Vehicle.lua:**
+
+&nbsp;  
+&nbsp;  
+
+And the two classes, the first being **Vehicle.lua:**
 ```lua
 Object = require '../lib/classic/classic'
 
@@ -110,8 +115,12 @@ function Car:printNumOfDoors()
   io.write(self.numOfDoors.."\n")
 end
 ```
-<br>
-**Point.lua**
+
+&nbsp;  
+&nbsp;  
+
+And the second being **Point.lua**
+
 ```lua
 Object = require '../lib/classic/classic'
 
@@ -139,5 +148,5 @@ function Rect:new(x, y, width, height)
   self.height = height or 0
 end
 ```
-<br>
-I was just playing around to make sure I understood how to use the library.
+&nbsp;  
+That should give you a pretty good idea on how the classical library works.
