@@ -1,8 +1,8 @@
-My blog, theme modified by me.
+My blog.
 
 Original Theme
 -------
-You can see the original them [right here on GitHub Pages.](http://mattvh.github.io/solar-theme-jekyll/)
+You can see the original theme [at this repo](http://mattvh.github.io/solar-theme-jekyll/)
 
 
 Theme License
