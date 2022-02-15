@@ -1,0 +1,40 @@
+<!-- Sidebar -->
+<section id="sidebar">
+
+  <!-- Intro -->
+  <section id="intro">
+    <header>
+      <a href="/index.html">
+        <h2><i class="fas fa-code-branch"></i> {{ SITENAME }}</h2>
+      </a>
+      <p>{{ SITESUBTITLE }}</p>
+      <ul class="icons">
+        {% for name, icon, link in SOCIAL %}
+        <li><a href="{{ link }}" class="icon brands fa-{{ icon }}"><span class="label">{{ name }}</a></li>
+        {% endfor %}
+      </ul>
+    </header>
+  </section>
+
+  <!-- Sidebar Links -->
+  <section>
+    <div class="sidebar-links">
+
+      <span class="sidebar-link">
+        <h1><a href="/index.html">Home</a></h3>
+      </span>
+
+      <span class="sidebar-link">
+        <h1><a href="/pages/resume.html">Resume</a></h3>
+      </span>
+
+      <span class="sidebar-link">
+        <h1><a href="/pages/portfolio.html">Portfolio</a></h3>
+      </span>
+
+      <!-- span class="sidebar-link">
+        <h1><a href="/pages/archive.html">Archive</a></h3>
+      </span -->
+
+    </div>
+  </section>

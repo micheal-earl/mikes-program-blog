@@ -1,9 +1,0 @@
-name: Mike's Code
-url: http://zenrix.github.io
-description: A place for notes
-
-permalink: /:year/:month/:day/:title/
-paginate: 10
-
-gems: [jekyll-paginate]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
