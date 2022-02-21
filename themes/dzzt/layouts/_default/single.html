@@ -1,5 +1,29 @@
-# tags to render markdown content
-<h1>{{ .Title }}</h1>
-<h1>Single.html</h1>
-<p>{{ .Content }}</p>
-<span>{{ .Params.date }}</span>
+{{ define "main" }}
+
+<!-- Post -->
+
+<article class="post">
+  <header>
+    <div class="title">
+      <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+      <!-- p>articlesummary</p -->
+    </div>
+    <div class="meta">
+      <time class="published">{{ .Date.Format "Jan 2, 2006" }}</time>
+      <a href="{{ .URL }}" class="author"><span class="name">Micheal Earl</span></a>
+    </div>
+  </header>
+  <!-- a href="single.html" class="image featured"><img src="/theme/images/pic01.jpg" alt="" /></a -->
+  {{ .Content }}
+  <footer>
+    {{ with .Params.tags }}
+    <ul class="stats">
+      {{ range . }}
+      <li> <a href="{{ " tags" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </footer>
+</article>
+
+{{ end }}

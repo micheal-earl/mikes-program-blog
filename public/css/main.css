@@ -2956,6 +2956,7 @@ ul.posts article header > :last-child {
   cursor: default;
   list-style: none;
   padding: 0;
+  margin-bottom: 3em;
 }
 
 .post > footer .stats li {
