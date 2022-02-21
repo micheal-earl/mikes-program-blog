@@ -1,7 +1,7 @@
 ---
 title: "Nostalgia"
 date: 2018-07-08
-draft: true
+draft: false
 tags:
   - whims
 ---

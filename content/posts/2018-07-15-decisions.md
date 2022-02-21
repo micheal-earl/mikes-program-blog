@@ -1,7 +1,7 @@
 ---
 title: "Decisions"
 date: 2018-07-15
-draft: true
+draft: false
 tags:
   - whims
 ---

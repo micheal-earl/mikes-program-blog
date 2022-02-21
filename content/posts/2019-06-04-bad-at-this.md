@@ -1,7 +1,7 @@
 ---
 title: "I'm Bad at This"
 date: 2019-06-04
-draft: true
+draft: false
 tags:
   - whims
 ---

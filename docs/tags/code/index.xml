@@ -18,5 +18,16 @@
 I think all of those things are excellent reasons for beginners to use Godot. However, that isn&amp;rsquo;t to say Godot doesn&amp;rsquo;t suit advanced programmers.</description>
     </item>
     
+    <item>
+      <title>Object Oriented Lua</title>
+      <link>https://zenrix.github.io/posts/2018-03-03-been-a-while/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zenrix.github.io/posts/2018-03-03-been-a-while/</guid>
+      <description>Well this blog didn&amp;rsquo;t really take off. I just can&amp;rsquo;t spin up the effort to write something every day. I&amp;rsquo;ve recently gotten into Lua and the LOVE 2d game library. Playing around with that has been pretty fun.
+I&amp;rsquo;m using a library in lua to help me implement OOP functionality. The library is called classical.lua and you can find it here.
+You can see some notes I made on the usage of the classical library in my repo here</description>
+    </item>
+    
   </channel>
 </rss>
