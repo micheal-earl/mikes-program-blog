@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Mike's Code"
+copyright = '&copy; Micheal Earl'
+theme = 'dzzt'
+paginate = 3

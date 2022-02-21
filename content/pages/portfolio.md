@@ -1,4 +1,9 @@
-Title: Portfolio
+---
+title: "Portfolio"
+type: "page"
+status: "page"
+layout: "portfolio"
+---
 
 ### Work in progress!
 

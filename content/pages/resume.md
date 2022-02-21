@@ -1,4 +1,9 @@
-Title: Resume
+---
+title: "Resume"
+type: "page"
+status: "page"
+layout: "resume"
+---
 
 ---
 
