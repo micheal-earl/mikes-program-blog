@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mike&#39;s Code</title>
+    <link>https://zenrix.github.io/posts/</link>
+    <description>Recent content in Posts on Mike&#39;s Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Micheal Earl</copyright>
+    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zenrix.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Godot</title>
+      <link>https://zenrix.github.io/posts/2019-06-05-godot-thoughts/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zenrix.github.io/posts/2019-06-05-godot-thoughts/</guid>
+      <description>Godot is a lot of fun to use and, in my opinion, may be the best platform available for teaching people how to program. Godot is very lightweight (~50mb) with no dependencies, it is completely open source under the MIT License, it supports both 2d and 3d game development, and its scripting language is python-esque.
+I think all of those things are excellent reasons for beginners to use Godot. However, that isn&amp;rsquo;t to say Godot doesn&amp;rsquo;t suit advanced programmers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Godot"
 date: 2019-06-05
-draft: true
+draft: false
 tags:
   - code
 ---
