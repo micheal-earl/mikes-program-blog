@@ -4,4 +4,3 @@ title = "Mike's Code"
 copyright = '&copy; Micheal Earl'
 theme = 'dzzt'
 paginate = 3
-publishDir = "docs/"
