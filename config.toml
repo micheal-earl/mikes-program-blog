@@ -1,6 +1,6 @@
 baseURL = 'https://zenrix.github.io'
 languageCode = 'en-us'
-title = "Mike's Code"
+title = "Mike's Program"
 copyright = '&copy; Micheal Earl'
 theme = 'dzzt'
 paginate = 3
