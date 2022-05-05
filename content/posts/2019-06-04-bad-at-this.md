@@ -3,7 +3,7 @@ title: "I'm Bad at This"
 date: 2019-06-04
 draft: false
 tags:
-  - whims
+  - thoughts
 ---
 
 Wow it just never really seems to work out every time I try to get this blog going. I'll be honest here: I usually just forget it exists. It's easy to say to myself "Oh I can wait to make another blog post." And, I'll keep telling myself that right up until I completely forget about the blog entirely.
