@@ -12,4 +12,4 @@ I'm working with a good friend of mine and both of us have hammered in some of t
 
 For now we've been tackling the planning phase. Specifically, we've begun creating our product backlog via the scrum framework. In this backlog, we define every requirement we need to fulfill to reach our "product goal." That product goal is our end product. The website or application itself.
 
-On a side note, git is a different beast when I'm not using it on my own for personal projects. I've even contributed to a few open source repos, but using git "properly" on big, collaborative project will take some learning. But that's the whole point.
+On a side note, git is a different beast when I'm not using it on my own for personal projects. I've even contributed to a few open source repos, but using git "properly" on a big, collaborative project will take some learning. But that's the whole point.
