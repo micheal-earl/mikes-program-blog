@@ -8,9 +8,9 @@ layout: "resume"
 ---
 
 # Micheal Earl
-*Location* - **Arcata, California, United States**
-*Email* - **michealearldev@gmail.com**
-*Social Media* - **linkedin.com/in/micheal-earl**
+*Location* - **Arcata, California, United States**  
+*Email* - **michealearldev@gmail.com**  
+*Social Media* - **linkedin.com/in/micheal-earl**  
 
 ## Summary
 I am driven to learn new technologies and to dive deeply into what makes them tick. Tinkering with web technologies has been a focus of mine for over 15 years. I have used many tech stacks that include various web frameworks, ORM's, and databases. My preferred tools are JavaScript, Python, Django, and PostgreSQL, but I still learn new things every day and strive to find the best toolkit for whatever problem I'm facing.
