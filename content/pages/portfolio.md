@@ -5,20 +5,22 @@ status: "page"
 layout: "portfolio"
 ---
 
-### Work in progress!
+## Projects
+### Humbugdet 
+> [repo](https://github.com/Micheal-Earl/HumBudget)
+- Budgeting web app built with React and Firebase
 
-In the mean time, why not check out some of my Github projects?
+### Roque 
+> [rogueimmortal.com](http://rogueimmortal.com/) [repo](https://github.com/Micheal-Earl/roque)
+- Framework for creating roguelike video games on the web built with vanilla JS and rotJS
 
----
+### mikesprogram 
+> [repo](https://github.com/Micheal-Earl/mikes-program-blog)
+- My blog which is built with a static site generator called hugo
 
-##### [https://github.com/Zenrix/bytelo](https://github.com/Zenrix/bytelo)
+### mikesblockchain 
+> [repo](https://github.com/Micheal-Earl/mikesblockchain)
+- A toy blockchain implementation built with golang
 
-_Top down 2D shooter made with Lua and LOVE_
-
-##### [https://github.com/Zenrix/roque](https://github.com/Zenrix/roque)
-
-_Framework for making roguelike games on the web_
-
-##### [https://github.com/Zenrix/r-lyke](https://github.com/Zenrix/r-lyke)
-
-_A tiny roguelike written in Ruby_
+## Skills
+> Web Development • Javascript • HTML • CSS • Node.js • Git • SQL • ORMs • Golang • Python • Blockchain

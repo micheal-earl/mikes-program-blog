@@ -47,16 +47,20 @@ github.com/Micheal-Earl
 - Graduated with 4.0 University GPA  
   
 ## Projects
-### Humbugdet [repo](https://github.com/Micheal-Earl/HumBudget)
+### Humbugdet 
+> [repo](https://github.com/Micheal-Earl/HumBudget)
 - Budgeting web app built with React and Firebase
 
-### Roque [rogueimmortal.com](http://rogueimmortal.com/) [repo](https://github.com/Micheal-Earl/roque)
+### Roque 
+> [rogueimmortal.com](http://rogueimmortal.com/) [repo](https://github.com/Micheal-Earl/roque)
 - Framework for creating roguelike video games on the web built with vanilla JS and rotJS
 
-### mikesprogram [repo](https://github.com/Micheal-Earl/mikes-program-blog)
+### mikesprogram 
+> [repo](https://github.com/Micheal-Earl/mikes-program-blog)
 - My blog which is built with a static site generator called hugo
 
-### mikesblockchain [repo](https://github.com/Micheal-Earl/mikesblockchain)
+### mikesblockchain 
+> [repo](https://github.com/Micheal-Earl/mikesblockchain)
 - A toy blockchain implementation built with golang
 
 ## Skills
