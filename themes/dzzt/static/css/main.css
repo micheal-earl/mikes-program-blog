@@ -2764,7 +2764,7 @@ ul.posts article header> :last-child {
 }
 
 .sidebar-link a {
-  color: #00C5A4;
+  color: #00C5A4 !important;
 }
 
 #sidebar-link a:hover {
