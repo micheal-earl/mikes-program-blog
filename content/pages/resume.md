@@ -10,13 +10,13 @@ layout: "resume"
 # Micheal Earl 
 ## Summary
 I am driven to learn new technologies and to dive deeply into what makes them tick. Tinkering with web technologies has been a focus of mine for over 15 years. I have used many tech stacks that include various web frameworks, ORM's, and databases. My preferred tools are Javascript, Golang, and PostgreSQL, but I still learn new things every day and strive to find the best toolkit for whatever problem I'm facing. 
-
+  
 ## Contact
 Arcata, California, United States  
 michealearldev@gmail.com  
 linkedin.com/in/micheal-earl  
 github.com/Micheal-Earl  
-
+  
 ## Experience 
 ### Front End Web Developer 
 *Chico Systems*  
@@ -38,7 +38,7 @@ github.com/Micheal-Earl
 *May 2021 - May 2022 (1 year)*  
 - Assisted struggling students with a focus on computer architecture.
 - Consulted with faculty on curriculum changes that would best serve students.
-
+  
 ## Education
 ### California Polytechnic Humboldt 
 *Bachelor's degree, Computer Science 2019 - 2022*  
@@ -62,7 +62,7 @@ github.com/Micheal-Earl
 ### mikesblockchain 
 [repo](https://github.com/Micheal-Earl/mikesblockchain)
 - A toy blockchain implementation built with golang
-
+  
 ## Skills
 > Web Development • Javascript • HTML • CSS • Node.js • Git • SQL • ORMs • Golang • Python • Blockchain
 
