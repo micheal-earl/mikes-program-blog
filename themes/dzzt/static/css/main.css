@@ -2720,7 +2720,7 @@ ul.posts article .image {
 }
 
 ul.posts article .image img {
-  width: 100%;
+  max-width: 100%;
 }
 
 ul.posts article header {
@@ -2748,6 +2748,10 @@ ul.posts article header .published {
 
 ul.posts article header> :last-child {
   margin-bottom: 0;
+}
+
+article.post img {
+  width: 100%;
 }
 
 /* Sidebar Links */
