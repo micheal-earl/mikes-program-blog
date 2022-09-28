@@ -10,7 +10,7 @@ Getting better at something is a skill. I've learned that the hard way over the 
 
 Most of my time is split between brushing up on data structures and algorithms, working on portolio projects, or applying for jobs. It has been exhausting, but I am improving at an unprecedented pace.
 
-Writing Go code has been eye opening in a lot of ways. I hardly understood concurrent design and rarely bothered with pointers (even when the language I used supported them). But Go emphasizes these things. I know the applications and cost of passing by value or reference. I understand channels and goroutines and why they arte such powerful tools.
+Writing Go code has been eye opening in a lot of ways. I hardly understood concurrent design and rarely bothered with pointers (even when the language I used supported them). But Go emphasizes these things. I know the applications and cost of passing by value or reference. I understand channels and goroutines and why they are such powerful tools.
 
 The next step is to use these concepts and cement them in my mind through a project. I've been playing with a toy blockchain implementation and that has been fun, but I really want to create a web app utilizing microservices. Something that can scale through concurrent design.
 
