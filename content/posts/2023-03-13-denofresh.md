@@ -18,5 +18,5 @@ I'm going to use these tools to create a basic social media website. My initial 
 
 You can keep track of my progress using these repos:
 
-Frontend Fresh server repo: [click here](https://github.com/Micheal-Earl/mitwi-frontend)
+Frontend Fresh server repo: [click here](https://github.com/Micheal-Earl/mitwi-frontend)  
 Backend REST api repo: [click here](https://github.com/Micheal-Earl/mitwi-backend)
