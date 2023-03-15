@@ -1,5 +1,5 @@
 ---
-title: "Go Web Apps"
+title: "Deno and Fresh"
 date: 2023-03-13
 draft: false
 tags:
