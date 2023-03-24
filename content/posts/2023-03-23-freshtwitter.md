@@ -7,21 +7,17 @@ tags:
 ---
 
 I've been working at this little web app for a bit over a week and thought I'd share what I've
-discovered.
-
-<br />
-
+discovered.  
+  
 PS: I'm looking for work!
-
-<br />
-
-Contact me on [Linkedin](https://www.linkedin.com/in/micheal-earl/)
+  
+Contact me on _[Linkedin](https://www.linkedin.com/in/micheal-earl/)_
 
 <!-- ABOUT THE PROJECT -->
 
 ### About The Project
 
-#### Check out a video!
+Check out a video demo!
 
 [![Mitwi Screen Shot][product-screenshot]](https://www.youtube.com/watch?v=0Ip1Dl0pyxw)
 
@@ -29,8 +25,10 @@ I decided to undertake this project because I wanted to prove to myself and
 possible employers that I can quickly adapt to new tech stacks and create
 working prototypes.
 
+Ultimately, I think I accomplished that goal.
+
 Unfortunately, I failed to see just how detrimental some of the choices I was
-making would be to actually creating a working web app.
+making would be when actually creating a working web app.
 
 Here's why:
 
@@ -72,7 +70,7 @@ based modules, I think I could do a much better job of leveraging Deno's "ship
 no javascript by default" approach. As it is now, almost every component is an
 island. That's definitely not using Fresh as intended.
 
-#### Built With
+### Built With
 
 These are the major components of the web app.
 
@@ -84,12 +82,10 @@ These are the major components of the web app.
 - JWT Auth
 - MongoDB with Mongoose
 
-
 ### Project
 
 Project Link:
 [https://github.com/Micheal-Earl/mitwi](https://github.com/Micheal-Earl/mitwi)
-
 
 ### Acknowledgments
 
