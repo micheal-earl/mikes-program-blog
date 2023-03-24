@@ -6,17 +6,22 @@ tags:
   - project
 ---
 
-I'm looking for work!
+I've been working at this little web app for a bit over a week and thought I'd share what I've
+discovered.
+
 <br />
-Contact me on <a href="https://www.linkedin.com/in/micheal-earl/">Linkedin</a>.
+
+PS: I'm looking for work!
+
+<br />
+
+Contact me on [Linkedin](https://www.linkedin.com/in/micheal-earl/)
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+### About The Project
 
-<h2 align="center">
-  Check out a video!
-</h2>
+#### Check out a video!
 
 [![Mitwi Screen Shot][product-screenshot]](https://www.youtube.com/watch?v=0Ip1Dl0pyxw)
 
@@ -67,7 +72,7 @@ based modules, I think I could do a much better job of leveraging Deno's "ship
 no javascript by default" approach. As it is now, almost every component is an
 island. That's definitely not using Fresh as intended.
 
-### Built With
+#### Built With
 
 These are the major components of the web app.
 
@@ -80,13 +85,13 @@ These are the major components of the web app.
 - MongoDB with Mongoose
 
 
-## Project
+### Project
 
 Project Link:
 [https://github.com/Micheal-Earl/mitwi](https://github.com/Micheal-Earl/mitwi)
 
 
-## Acknowledgments
+### Acknowledgments
 
 When making this project, I heavily referenced "Code with Antonio's" twitter
 clone. His clone was made with Node, Next.js, and Prisma.
