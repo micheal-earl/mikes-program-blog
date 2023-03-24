@@ -48,7 +48,7 @@ Here's why:
   for the Deno runtime. My initial plan was to use Prisma, but for reasons
   stated above, it didn't work out. Instead, I opted for Mongoose. I've never
   used MongoDB and still have very little idea how it actually works.
-- Preact is awsome, and this project only made me love it even more. The problem
+- Preact is awesome, and this project only made me love it even more. The problem
   is that when I use a React based library, I am now using it through two
   compatability layers: Deno's npm support, and Preacts compat layer.
 
