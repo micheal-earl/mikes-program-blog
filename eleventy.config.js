@@ -14,10 +14,10 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
 
   // Copyright shortcode
-  // eleventyConfig.addShortcode(
-  //   "copy",
-  //   async () => `&#169;&nbsp;${new Date().getFullYear()}&nbsp;Marco&nbsp;Micale`
-  // );
+  eleventyConfig.addShortcode(
+    "copy",
+    async () => `&#169;&nbsp;${new Date().getFullYear()}&nbsp;Marco&nbsp;Micale`
+  );
 
   // Utilities
   // Reverse the order of the posts collection so that the newest post is first

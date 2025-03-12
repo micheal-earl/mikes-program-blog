@@ -1,19 +1,20 @@
 /* ========== Global Styles ========== */
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
-  line-height: 1.6;
-  background-color: #121212;
+  padding: 1em;
+  line-height: 1.4;
+  background-color: #0b192c;
   color: #e0e0e0;
 }
 
 /* ========== Header Styles ========== */
 header {
-  border-bottom: 2px solid #333;
-  margin-bottom: 30px;
-  padding-bottom: 10px;
+  border-bottom: 2px dotted #1e3e62;
+  margin-bottom: 2.5em;
+  padding-top: 1em;
+  padding-bottom: 1.5em;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -21,47 +22,47 @@ header {
 
 header h1 a {
   text-decoration: none;
-  color: #ffffff;
+  color: #ffa726;
 }
 
 nav a {
   text-decoration: none;
-  padding: 1em;
-  color: #bbbbbb;
+  padding: 0.75em 1em;
+  color: #e0e0e0;
 }
 
 nav a:hover {
-  color: #ffffff;
+  color: #ffa726;
 }
 
 a {
-  color: #90caf9;
+  color: #ffa726;
 }
 
 /* ========== Post Styles ========== */
 .post {
-  background: #1a1a1a;
-  padding: 20px;
+  padding-bottom: 1em;
   margin-bottom: 1em;
-  border-radius: 5px;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+  border-bottom: 2px dotted #1e3e62;
 }
 
 .post h1 {
-  margin-top: 0em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.2em;
   font-size: 2rem;
   font-weight: bold;
-  color: #90caf9;
-  border-bottom: 2px solid #333;
-  padding-bottom: 0.2em;
+  color: #ffa726;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-end;
+  border-bottom: 2px solid #0b192c;
 }
 
 .post h1 span {
-  color: #292929;
+  color: #cccccc;
   white-space: nowrap;
+  font-size: 1rem;
 }
 
 .post h1 a {
@@ -74,13 +75,13 @@ a {
 }
 
 .post p {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 .post img {
   max-width: 100%;
   height: auto;
-  border-radius: 4px;
+  border-radius: 0.5em;
 }
 
 /* ========== Archive Page ========== */
@@ -94,17 +95,17 @@ a {
   justify-content: space-between;
   align-items: center;
   padding: 10px 0;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #1e3e62;
 }
 
 #archive li a {
-  color: #90caf9;
+  color: #ffa726;
   text-decoration: none;
   flex-grow: 1;
 }
 
 #archive li:hover {
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 101, 0, 0.1);
 }
 
 #archive li a:hover {
@@ -112,27 +113,28 @@ a {
 }
 
 #archive li span {
-  color: #bbbbbb;
+  color: #e0e0e0;
   white-space: nowrap;
 }
 
 /* ========== Pagination Links ========== */
 #pagination {
-  margin-top: 0em;
   display: flex;
   justify-content: space-between;
 }
 
 #pagination a {
   text-decoration: none;
-  padding: 8px 12px;
-  border-radius: 5px;
-  background-color: #222;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  -background-color: #1e3e62;
   transition: background-color 0.3s;
+  color: #ffa726;
 }
 
 #pagination a:hover {
-  background-color: #333;
+  background-color: #ffa726;
+  color: #e0e0e0;
 }
 
 #pagination a:first-child:last-child {
@@ -141,11 +143,41 @@ a {
 
 /* ========== Code Highlighting (PrismJS Overrides) ========== */
 pre {
-  background-color: #1e1e1e !important;
+  background-color: #0b192c !important;
+  border: 3px solid #ffa726 !important;
+}
+
+/* ========== Cards ========== */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 1em;
+  border-radius: 0.5em;
+  width: 45%;
+}
+
+.card:hover {
+  background: #61400f;
+}
+
+.card i {
+  font-size: 1.5rem;
+  color: #ffa726;
 }
 
 /* ========== Responsive Design ========== */
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   body {
     padding: 15px;
   }
@@ -165,55 +197,15 @@ pre {
     font-size: 1.6rem;
     flex-direction: column;
     text-align: center;
+    align-items: flex-start;
   }
 
   #pagination {
     flex-direction: column;
     align-items: center;
   }
-}
 
-@media (max-width: 480px) {
-  .post h1 {
-    font-size: 1.4rem;
+  .card {
+    width: 100%;
   }
-
-  nav a {
-    font-size: 14px;
-  }
-}
-
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 10px;
-}
-
-.card {
-  text-decoration: none;
-  font-weight: bold;
-  background: #1a1a1a;
-  align-items: center;
-  justify-content: center;
-  display: flex;
-  gap: 10px;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-  width: 100%;
-}
-
-.card:hover {
-  background: #313131;
-  border-radius: 5px;
-}
-
-.card i {
-  font-size: 1.5rem;
-  color: #90caf9;
-}
-
-.card a:hover {
-  text-decoration: underline;
 }
