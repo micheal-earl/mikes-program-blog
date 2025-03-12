@@ -41,15 +41,14 @@ a {
 
 /* ========== Post Styles ========== */
 .post {
-  padding-bottom: 1em;
-  margin-bottom: 1em;
+  padding-bottom: 2em;
+  margin-bottom: 2em;
   border-bottom: 2px dotted #1e3e62;
 }
 
+/* Post Header */
 .post h1 {
   margin-top: 1em;
-  margin-bottom: 0.5em;
-  padding-bottom: 0.2em;
   font-size: 2rem;
   font-weight: bold;
   color: #ffa726;
@@ -74,14 +73,37 @@ a {
   text-decoration: underline;
 }
 
+/* Sub Header */
+h2 {
+  padding-top: 0.3em;
+}
+
+h2::before {
+  content: "--> ";
+}
+
+/* Tertiary Header */
+h3 {
+  font-style: italic;
+}
+
 .post p {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .post img {
   max-width: 100%;
   height: auto;
   border-radius: 0.5em;
+}
+
+/* Highlight `` snippets without breaking prism */
+.post code:not([class]) {
+  padding: 0.1em 0.2em 0.1em 0.2em;
+  border: 1px solid #ffa726;
+  border-radius: 3px;
+  background-color: black;
+  border-color: #ffa726;
 }
 
 /* ========== Archive Page ========== */
@@ -127,7 +149,6 @@ a {
   text-decoration: none;
   padding: 0.5em 1em;
   border-radius: 0.5em;
-  -background-color: #1e3e62;
   transition: background-color 0.3s;
   color: #ffa726;
 }
@@ -143,8 +164,9 @@ a {
 
 /* ========== Code Highlighting (PrismJS Overrides) ========== */
 pre {
+  box-shadow: none;
   background-color: #0b192c !important;
-  border: 3px solid #ffa726 !important;
+  border: 1px solid #ffa726 !important;
 }
 
 /* ========== Cards ========== */
