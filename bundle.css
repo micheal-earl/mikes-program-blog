@@ -183,13 +183,14 @@ pre {
   }
 }
 
-.contact {
+.container {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 10px;
 }
 
-.contact-card {
+.card {
   text-decoration: none;
   font-weight: bold;
   background: #1a1a1a;
@@ -203,16 +204,16 @@ pre {
   width: 100%;
 }
 
-.contact-card:hover {
+.card:hover {
   background: #313131;
   border-radius: 5px;
 }
 
-.contact-card i {
+.card i {
   font-size: 1.5rem;
   color: #90caf9;
 }
 
-.contact-card a:hover {
+.card a:hover {
   text-decoration: underline;
 }
