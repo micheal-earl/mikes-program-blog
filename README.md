@@ -1,5 +1,27 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ac6d8e74-05dc-4b08-a394-186213d871b5/deploy-status)](https://app.netlify.com/sites/mikesprogram/deploys)
+# My blog
 
-My blog found at http://www.mikesprogram.com.
+## About
 
-Powered by Hugo.
+This is my blog.
+
+The readme is mostly here to remind myself some time in the future how all of this works.
+
+I am using the 11ty static site generator.
+
+### Details
+
+- The config can be found in `eleventy.config.js`.
+- CSS at `bundle.css`
+- Using the liquid template language, thus the .liquid files instead of .html
+- Posts are all given a tag and layout automatically with `posts.json`
+
+### Pages
+
+- `index.liquid`
+- `archive.liquid`
+- individual posts
+
+### Layouts
+
+- `layout.liquid` The main skeleton of the blog
+- `post.liquid` Layout to wrap indiviudal post page with .post class

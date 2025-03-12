@@ -1,8 +1,0 @@
-baseURL = 'https://zenrix.github.io'
-languageCode = 'en-us'
-title = "Mike's Program"
-description = "A place for notes about web development and game development."
-copyright = '&copy; Micheal Earl'
-theme = 'dzzt'
-paginate = 3
-images = ["/cover.png"]

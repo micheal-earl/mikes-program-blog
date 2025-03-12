@@ -7,10 +7,10 @@ tags:
 ---
 
 I've been working at this little web app for a bit over a week and thought I'd share what I've
-discovered.  
-  
+discovered.
+
 PS: I'm looking for work!
-  
+
 Contact me on _[Linkedin](https://www.linkedin.com/in/micheal-earl/)_
 
 <!-- ABOUT THE PROJECT -->
