@@ -143,23 +143,25 @@ h3 {
 #pagination {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 1.5em;
 }
 
 #pagination a {
   text-decoration: none;
-  padding: 0.5em 1em;
-  border-radius: 0.5em;
-  transition: background-color 0.3s;
   color: #ffa726;
 }
 
 #pagination a:hover {
-  background-color: #ffa726;
-  color: #e0e0e0;
+  text-decoration: underline;
 }
 
 #pagination a:first-child:last-child {
   margin-left: auto;
+}
+
+/* ========== Footer ========== */
+#copy {
+  text-align: right;
 }
 
 /* ========== Code Highlighting (PrismJS Overrides) ========== */

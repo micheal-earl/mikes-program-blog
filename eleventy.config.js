@@ -16,7 +16,7 @@ export default function (eleventyConfig) {
   // Copyright shortcode
   eleventyConfig.addShortcode(
     "copy",
-    async () => `&#169;&nbsp;${new Date().getFullYear()}&nbsp;Marco&nbsp;Micale`
+    async () => `&#169;&nbsp;${new Date().getFullYear()}&nbsp;Micheal&nbsp;Earl`
   );
 
   // Utilities
