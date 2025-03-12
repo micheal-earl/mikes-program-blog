@@ -14,11 +14,14 @@ I am using the 11ty static site generator.
 - CSS at `bundle.css`
 - Using the liquid template language, thus the .liquid files instead of .html
 - Posts are all given a tag and layout automatically with `posts.json`
+- I tried to move all relevant files to a /src dir, but then 11ty stopped processing the index, idk
 
 ### Pages
 
 - `index.liquid`
 - `archive.liquid`
+- `projects.liquid`
+- `contact.liquid`
 - individual posts
 
 ### Layouts
